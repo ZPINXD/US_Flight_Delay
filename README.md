@@ -12,7 +12,7 @@
 - GitHub (dokumentasi)
 
 ## 📈 Dashboard Preview
-![preview](img/dashboard_preview.png)
+![Screenshot 2025-06-29 211900](https://github.com/user-attachments/assets/74a36cfd-7466-4fcd-8bfb-d8d3d2369ea5)
 
 ## 🧠 Insight Utama
 - Jenis keterlambatan terbesar berasal dari keterlambatan kedatangan (Arr Delay) sebesar 6,14 miliar detik
